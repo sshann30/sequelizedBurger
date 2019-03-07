@@ -18,3 +18,9 @@ module.exports = function(sequelize, DataTypes) {
 	});
 	return Burger;
 };
+
+
+// 	update: function?
+// 	},
+// 	delete: function?
+//   };

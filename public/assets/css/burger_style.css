@@ -1,0 +1,25 @@
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: #fcb42e;
+  }
+
+  .burgerimg {
+    height: 100px;
+  }
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  .burgerName{
+    text-align: center;
+  }
+  body{
+    background-color: #f4842c;
+  }
+  
