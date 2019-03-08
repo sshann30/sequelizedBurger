@@ -1,4 +1,3 @@
-  
   .label {
     font-weight: bold;
   }
@@ -9,7 +8,7 @@
     background: #fcb42e;
   }
 
-  .burgerimg {
+  .burger.png {
     height: 100px;
   }
   .form-group {
